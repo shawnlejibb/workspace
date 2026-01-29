@@ -1,8 +1,9 @@
 # Security and Privacy Review Summary
 
 **Date**: 2026-01-29  
-**Repository**: shawnlejibb/workspace  
-**Reviewer**: GitHub Copilot Agent
+**Repository**: gemini-cli-extensions/workspace  
+**Reviewer**: GitHub Copilot Agent  
+**Note**: This review was conducted on a fork for demonstration purposes
 
 ## Executive Summary
 
